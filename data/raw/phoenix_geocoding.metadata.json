@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:18.567036+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Phoenix&count=100&language=en&format=json&countryCode=US",
+  "sha256": "504cedbf70e22333b510996bec12703629d71b15632ebdedf9144b1da0f00a5f"
+}

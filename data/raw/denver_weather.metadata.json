@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:22.356131+00:00",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.73915&longitude=-104.9847&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Ctemperature_2m_min%2Ctemperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=America%2FDenver&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+  "sha256": "cd999336821e828f3849c8fcfa89e2c5a06f32e4e91a868efc4e02266eb89e8c"
+}

@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:11.224238+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Salt+Lake+City&count=100&language=en&format=json&countryCode=US",
+  "sha256": "e1346b62bf4409426b4c65c40581c11dab384fc7c28652782e7f14bcc8757306"
+}

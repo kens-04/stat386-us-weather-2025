@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:16.016077+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Los+Angeles&count=100&language=en&format=json&countryCode=US",
+  "sha256": "e977d9a50e620aa10a6c7ea9cee38a704cdddcbec3cc32c4fc37a5435b4211ac"
+}

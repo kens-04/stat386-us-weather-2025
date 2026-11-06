@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:13.651219+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Seattle&count=100&language=en&format=json&countryCode=US",
+  "sha256": "aa490b0081626a379eabd065160fbf04849ecbb282b58deb64f61033e8118b75"
+}

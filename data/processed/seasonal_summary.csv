@@ -1,0 +1,41 @@
+city,season,mean_temp_c,precipitation_mm,days
+Boston,Fall,12.405,232.4,91
+Boston,Spring,9.89,362.1,92
+Boston,Summer,21.252,173.4,92
+Boston,Winter,-1.002,234.8,90
+Chicago,Fall,13.246,191.6,91
+Chicago,Spring,9.973,275.0,92
+Chicago,Summer,23.05,351.8,92
+Chicago,Winter,-2.942,140.8,90
+Denver,Fall,12.737,83.9,91
+Denver,Spring,10.661,161.4,92
+Denver,Summer,22.451,173.2,92
+Denver,Winter,-0.066,81.8,90
+Los Angeles,Fall,19.793,180.1,91
+Los Angeles,Spring,16.585,60.8,92
+Los Angeles,Summer,22.363,2.6,92
+Los Angeles,Winter,14.254,207.0,90
+Miami,Fall,25.718,469.4,91
+Miami,Spring,24.699,140.1,92
+Miami,Summer,28.274,527.3,92
+Miami,Winter,21.753,111.3,90
+New York,Fall,14.137,222.7,91
+New York,Spring,12.101,348.4,92
+New York,Summer,23.704,234.0,92
+New York,Winter,-0.171,178.3,90
+Phoenix,Fall,24.78,124.2,91
+Phoenix,Spring,23.229,51.7,92
+Phoenix,Summer,35.465,32.2,92
+Phoenix,Winter,14.569,9.5,90
+Provo,Fall,14.447,72.1,91
+Provo,Spring,11.097,136.5,92
+Provo,Summer,25.974,15.7,92
+Provo,Winter,0.739,111.7,90
+Salt Lake City,Fall,14.552,100.7,91
+Salt Lake City,Spring,12.822,145.2,92
+Salt Lake City,Summer,26.379,35.6,92
+Salt Lake City,Winter,2.846,104.6,90
+Seattle,Fall,12.602,369.5,91
+Seattle,Spring,10.948,344.8,92
+Seattle,Summer,18.7,83.0,92
+Seattle,Winter,5.689,506.0,90

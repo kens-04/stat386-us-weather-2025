@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:23.524787+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Chicago&count=100&language=en&format=json&countryCode=US",
+  "sha256": "88c458b825ed8bc0daadd28570cd803edb84c4340d9be63164386cca9ee3ca85"
+}

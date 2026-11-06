@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:28.264113+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Miami&count=100&language=en&format=json&countryCode=US",
+  "sha256": "22df1fe823da101199b81e500b158642c3a577552cb419fd68d4e8fd8859d628"
+}

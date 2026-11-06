@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:27.105340+00:00",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=40.71427&longitude=-74.00597&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Ctemperature_2m_min%2Ctemperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=America%2FNew_York&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+  "sha256": "cba7e11a991cdf6144781d85d69e60673185be075409ae1c007cb66a11100a6f"
+}

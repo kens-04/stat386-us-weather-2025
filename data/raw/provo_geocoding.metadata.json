@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:08.309642+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Provo&count=100&language=en&format=json&countryCode=US",
+  "sha256": "4609cc258b3806995c2d836ad987b931ff1dbbb31fc71f06a60da2375d83cc03"
+}

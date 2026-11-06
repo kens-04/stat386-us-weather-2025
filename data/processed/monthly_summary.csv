@@ -1,0 +1,121 @@
+city,month,mean_temp_c,precipitation_mm
+Boston,1,-1.871,54.0
+Boston,2,-0.864,91.8
+Boston,3,5.297,107.1
+Boston,4,9.893,106.7
+Boston,5,14.481,148.3
+Boston,6,20.03,62.3
+Boston,7,23.223,79.0
+Boston,8,20.465,32.1
+Boston,9,18.113,66.3
+Boston,10,12.9,103.1
+Boston,11,6.187,63.0
+Boston,12,-0.258,89.0
+Chicago,1,-4.5,36.8
+Chicago,2,-2.4,25.9
+Chicago,3,6.542,98.8
+Chicago,4,9.95,71.3
+Chicago,5,13.426,104.9
+Chicago,6,22.083,141.3
+Chicago,7,24.584,122.9
+Chicago,8,22.452,87.6
+Chicago,9,19.567,32.0
+Chicago,10,14.232,98.5
+Chicago,11,5.907,61.1
+Chicago,12,-1.874,78.1
+Denver,1,-4.632,31.7
+Denver,2,-0.854,31.8
+Denver,3,7.89,40.5
+Denver,4,9.55,38.7
+Denver,5,14.506,82.2
+Denver,6,20.583,84.7
+Denver,7,24.074,27.7
+Denver,8,22.635,60.8
+Denver,9,18.197,51.0
+Denver,10,12.352,27.0
+Denver,11,7.677,5.9
+Denver,12,5.213,18.3
+Los Angeles,1,13.139,16.4
+Los Angeles,2,14.718,74.0
+Los Angeles,3,14.232,48.5
+Los Angeles,4,16.257,9.1
+Los Angeles,5,19.255,3.2
+Los Angeles,6,20.93,2.2
+Los Angeles,7,21.871,0.3
+Los Angeles,8,24.242,0.1
+Los Angeles,9,23.54,9.9
+Los Angeles,10,19.445,44.2
+Los Angeles,11,16.407,126.0
+Los Angeles,12,14.952,116.6
+Miami,1,19.523,28.2
+Miami,2,23.096,26.1
+Miami,3,22.465,34.4
+Miami,4,24.517,17.5
+Miami,5,27.11,88.2
+Miami,6,27.83,182.4
+Miami,7,28.339,125.9
+Miami,8,28.639,219.0
+Miami,9,27.357,302.8
+Miami,10,26.252,138.2
+Miami,11,23.527,28.4
+Miami,12,22.771,57.0
+New York,1,-1.3,28.9
+New York,2,0.721,77.7
+New York,3,7.381,106.0
+New York,4,12.133,87.1
+New York,5,16.79,155.3
+New York,6,22.607,61.0
+New York,7,26.213,137.7
+New York,8,22.258,35.3
+New York,9,20.397,73.4
+New York,10,14.239,93.8
+New York,11,7.773,55.5
+New York,12,0.152,71.7
+Phoenix,1,11.419,1.1
+Phoenix,2,17.654,1.3
+Phoenix,3,18.694,43.2
+Phoenix,4,22.837,2.0
+Phoenix,5,28.145,6.5
+Phoenix,6,34.03,11.5
+Phoenix,7,35.948,12.7
+Phoenix,8,36.371,8.0
+Phoenix,9,31.16,45.7
+Phoenix,10,24.387,27.2
+Phoenix,11,18.807,51.3
+Phoenix,12,14.932,7.1
+Provo,1,-3.819,24.5
+Provo,2,2.271,52.9
+Provo,3,6.458,65.2
+Provo,4,9.933,22.5
+Provo,5,16.861,48.8
+Provo,6,24.273,1.3
+Provo,7,27.461,1.8
+Provo,8,26.132,12.6
+Provo,9,21.563,15.8
+Provo,10,12.813,41.8
+Provo,11,9.02,14.5
+Provo,12,3.913,34.3
+Salt Lake City,1,-1.158,24.1
+Salt Lake City,2,4.036,47.8
+Salt Lake City,3,8.432,73.5
+Salt Lake City,4,12.063,27.7
+Salt Lake City,5,17.945,44.0
+Salt Lake City,6,24.473,4.4
+Salt Lake City,7,28.161,6.5
+Salt Lake City,8,26.442,24.7
+Salt Lake City,9,21.77,19.5
+Salt Lake City,10,12.826,63.7
+Salt Lake City,11,9.117,17.5
+Salt Lake City,12,5.774,32.7
+Seattle,1,4.468,70.2
+Seattle,2,5.068,135.8
+Seattle,3,8.523,194.4
+Seattle,4,10.893,86.9
+Seattle,5,13.426,63.5
+Seattle,6,16.773,18.1
+Seattle,7,19.577,5.3
+Seattle,8,19.687,59.6
+Seattle,9,17.153,28.7
+Seattle,10,11.277,152.2
+Seattle,11,9.42,188.6
+Seattle,12,7.471,300.0

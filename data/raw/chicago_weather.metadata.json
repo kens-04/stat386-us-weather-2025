@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:24.737478+00:00",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=41.85003&longitude=-87.65005&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Ctemperature_2m_min%2Ctemperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=America%2FChicago&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+  "sha256": "b021d67866e45b964e0ec6eaf35c2f2612b9922b078cf620730bbb6b6d342e63"
+}

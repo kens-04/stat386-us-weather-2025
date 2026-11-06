@@ -1,0 +1,20 @@
+{
+  "rows": 3650,
+  "columns": 15,
+  "cities": 10,
+  "missing_cells": 0,
+  "duplicate_city_dates": 0,
+  "days_per_city": {
+    "Boston": 365,
+    "Chicago": 365,
+    "Denver": 365,
+    "Los Angeles": 365,
+    "Miami": 365,
+    "New York": 365,
+    "Phoenix": 365,
+    "Provo": 365,
+    "Salt Lake City": 365,
+    "Seattle": 365
+  },
+  "validation": "passed"
+}

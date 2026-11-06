@@ -1,0 +1,11 @@
+city,state,geonames_id,latitude,longitude,timezone,grid_latitude,grid_longitude,grid_elevation_m
+Provo,Utah,5780026,40.23384,-111.65853,America/Denver,40.25,-111.75,1392.0
+Salt Lake City,Utah,5780993,40.76078,-111.89105,America/Denver,40.75,-112.0,1302.0
+Seattle,Washington,5809844,47.60621,-122.33207,America/Los_Angeles,47.5,-122.25,59.0
+Los Angeles,California,5368361,34.05223,-118.24368,America/Los_Angeles,34.0,-118.25,91.0
+Phoenix,Arizona,5308655,33.44838,-112.07404,America/Phoenix,33.5,-112.0,333.0
+Denver,Colorado,5419384,39.73915,-104.9847,America/Denver,39.75,-105.0,1615.0
+Chicago,Illinois,4887398,41.85003,-87.65005,America/Chicago,41.75,-87.75,178.0
+New York,New York,5128581,40.71427,-74.00597,America/New_York,40.75,-74.0,51.0
+Miami,Florida,4164138,25.77427,-80.19366,America/New_York,25.75,-80.25,6.0
+Boston,Massachusetts,4930956,42.35843,-71.05977,America/New_York,42.25,-71.0,19.0

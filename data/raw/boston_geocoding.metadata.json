@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:30.670607+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Boston&count=100&language=en&format=json&countryCode=US",
+  "sha256": "9f4b156f3662aee4b2f55402d18e777a99635a852efd61569aa9140444a84536"
+}

@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:14.856141+00:00",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=47.60621&longitude=-122.33207&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_max%2Ctemperature_2m_min%2Ctemperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=America%2FLos_Angeles&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+  "sha256": "a837336c7189b6ee16712cba4d1019d18f77d7bd5bfe6b42dd5d7ad1ef077115"
+}

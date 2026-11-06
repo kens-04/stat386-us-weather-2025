@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:25.906207+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=New+York&count=100&language=en&format=json&countryCode=US",
+  "sha256": "663e0b8b5d667702176fa350b91c06142a30d9468c7d85a1c0032a749f4b38db"
+}

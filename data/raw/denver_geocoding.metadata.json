@@ -1,0 +1,5 @@
+{
+  "retrieved_at_utc": "2026-11-06T23:16:20.924849+00:00",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Denver&count=100&language=en&format=json&countryCode=US",
+  "sha256": "6805ac091c00d10b21df2d7cdecc386b550fd02687cfb4350929cf9fedb4222e"
+}
